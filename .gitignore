@@ -1,4 +1,6 @@
-# Compiled source #
+__pycache__/
+*.py[cod]
+src/activities.db# Compiled source #
 ###################
 *.com
 *.class
